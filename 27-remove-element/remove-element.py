@@ -6,4 +6,4 @@ class Solution:
                 del nums[i]
             else:
                 i+=1
-        return 
+        return i
